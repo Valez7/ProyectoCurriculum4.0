@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-color: rgb(242, 240, 245);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+button{
+    color: rgb(236, 8, 8);
+    text-decoration: dotted;
+    background-color: aquamarine;
+    border: 3px solid;
+    padding: 0%;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+    
+
+#container{
+    width: 70%;
+    margin: 0px auto;
+   
+  
+
+}
+
+
+header{
+    background-color: rgb(250, 204, 151);
+    height: 200px;
+    width: 100%;
+    margin: 0px;
+    text-align: center; 
+    border: 5px solid;
+    border-color: blue;
+
+    
+}
+
+
+.clearfix{
+    clear: both;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    
+   
+
+}
+
+#content{
+    float: left;
+    width: 100%;
+    min-height: 50px;
+    background-color: gray;
+    border: 5px solid;
+    border-color: brown;
+}
+
+
+
+ 
+  
